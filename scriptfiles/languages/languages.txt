@@ -1,7 +1,17 @@
+<<<<<<< HEAD
 tr.txt = Turkish
 en.txt = English
 ro.txt = Romanian
 id.txt = Indonesian
 vn.txt = Vietnamese
 pt-br.txt = Português
+=======
+es.txt = Español
+tr.txt = Turkish
+en.txt = English
+ro.txt = Romanian
+id.txt = Indonesian
+vn.txt = Vietnamese
+pt-br.txt = Português
+>>>>>>> fea52d1 (Actualizacion de archivos + traduccion completa al español)
 sr.txt = Serbian
