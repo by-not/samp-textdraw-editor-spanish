@@ -2,7 +2,7 @@
 #       Textdraw Editor - Language File
 #
 # Language: Spanish
-# Author:   root
+# Author:   not
 # Version:  1.5
 # Encoding: UTF-8
 ###############################################
